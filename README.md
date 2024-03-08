@@ -1,1 +1,5 @@
-## Swift effective lab init
+## Swift effective lab 
+
+### Результат работы
+
+![res](swift.jpg)
